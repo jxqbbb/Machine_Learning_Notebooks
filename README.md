@@ -21,3 +21,9 @@
 
 In this notebook, my goal was to maximize the performance of the kNN predictive algorithm. I achieved this by conducting a comprehensive analysis, using different evaluation metrics, and fine-tuning hyperparameters. Additionally, I implemented PCA analysis, pipelines, and various kinds of cross-validation methods to familiarize myself with scikit-learn's implementation of these functionalities.
 
+## 3. The best medicine for the patient - multiclass classification
+<a href="https://github.com/jxqbbb/Machine_Learning_Notebooks/blob/main/best_medicine_prediction/best_medicine_prediction.ipynb">⏩Notebook⏪</a> 
+
+This project aims to compare two very different machine learning models: the complex Support Vector Machines (SVM) and the simpler Naive Bayes. During data analysis it turns out that the dataset has a limited number of features and samples. To make things even harder, the features don't seem to provide much information for making accurate predictions and the target classes are highly imbalanced.
+
+The big question is: which model will perform better on this difficult multi-classification problem? By comparing the performance of SVM and Naive Bayes, this project will give us insights into how to choose and use machine learning models in challenging situations.
